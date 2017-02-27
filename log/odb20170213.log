@@ -1,0 +1,14 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-02-13 13:01:24 #1 store] 
+Database 'C:\Users\Koishus\Desktop\Cosas nomas\cosas universidad\2º\IS1\ProyectoRH\resources\ruralHouses.odb' has been recovered (tr. 21-21)
+
+[2017-02-13 13:01:25 #2 store] 
+Database 'C:\Users\Koishus\Desktop\Cosas nomas\cosas universidad\2º\IS1\ProyectoRH\resources\ruralHouses.odb' is opened by 10084@DESKTOP-ECE4H7M
+
+[2017-02-13 13:01:25 #3 type] 
+Type domain.RuralHouse is not enhanced.
+
+[2017-02-13 13:01:25 #4 type] 
+Type domain.Offer is not enhanced.
+
